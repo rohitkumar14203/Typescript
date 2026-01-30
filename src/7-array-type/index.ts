@@ -1,0 +1,1 @@
+console.log("Array Types in TypeScript");

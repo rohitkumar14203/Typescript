@@ -5,7 +5,13 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev:annotations": "tsx src/1-Annotations/index.ts"
+    "dev:annotations": "tsx src/1-Annotations/index.ts",
+    "dev:type-interfaces": "tsx src/2-type-interface/index.ts",
+    "dev:any-type": "tsx src/3-any-type/index.ts",
+    "dev:function-parameters": "tsx src/4-function-parameter-annotations/index.ts",
+    "dev:void-function": "tsx src/5-void-function/index.ts",
+    "dev:never-keyword": "tsx src/6-never-keyword/index.ts",
+    "dev:array-type": "tsx src/7-array-type/index.ts"
   },
   "keywords": [],
   "author": "",
